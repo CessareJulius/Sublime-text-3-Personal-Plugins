@@ -1,0 +1,27 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AutoFileName",
+		"BracketHighlighter",
+		"ColorPicker",
+		"Emmet",
+		"GitLink",
+		"HTML-CSS-JS Prettify",
+		"Laravel 5 Artisan",
+		"Laravel 5 Snippets",
+		"LinkOpener",
+		"LiveReload",
+		"Package Control",
+		"php-snippets",
+		"PHPIntel",
+		"Seti_UI",
+		"SublimeCodeIntel",
+		"Terminal",
+		"Theme - Seti Monokai"
+	]
+}
